@@ -1,0 +1,180 @@
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+
+
+/* Estilos del navbar */
+.navbar {
+    background-color: #1c5c9c; /* Cambia el color de fondo del navbar */
+}
+
+
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: #fdfdfd !important; /* Cambia el color del texto del navbar a blanco */
+}
+
+/* Cambia el color del texto del navbar al pasar el mouse por encima */
+.navbar-nav .nav-link:hover {
+    color: #fff !important;
+}
+
+/* Estilos de la sección principal */
+.container {
+    max-width: 800px; /* Ajusta el ancho máximo del contenedor principal */
+}
+
+/* Estilos del formulario de agregar/editar */
+#agregarRegistro,
+#verRegistros {
+    
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+#agregarRegistro h2,
+#verRegistros h2 {
+    color: #007bff; /* Cambia el color del título del formulario y de la tabla */
+}
+
+/* Estilos de la tabla */
+.table {
+    background-color: #fff;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.table th,
+.table td {
+    text-align: center;
+}
+
+/* Estilos para los botones en la tabla */
+.table .btn {
+    margin: 2px;
+}
+
+/* Cambia el color de fondo y el color del texto de los botones al pasar el mouse por encima */
+.table .btn:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Estilos de la imagen en la tabla */
+.img-thumbnail {
+    cursor: pointer;
+}
+
+/* Cambia el color de fondo y el color del texto de la imagen al pasar el mouse por encima */
+.img-thumbnail:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Estilos de los modales */
+.modal-content {
+    border-radius: 10px;
+}
+
+/* Estilos de los modales de imagen */
+.modal-dialog img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* Estilos de la tabla 
+.table {
+    background-color: #fff;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+/Estilos del formulario de agregar/editar 
+.form-container {
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/Estilos del botón Agregar 
+.btn-agregar {
+    margin-bottom: 20px;
+}
+
+/Estilos del modal 
+.modal-content {
+    border-radius: 10px;
+}
+
+/Estilos del modal de imagen 
+.modal-img {
+    max-width: 100%;
+    max-height: 80vh;
+    margin: auto;
+    display: block;
+}
+
+/Estilos del botón Editar en la tabla 
+.btn-editar {
+    cursor: pointer;
+}
+
+/Estilos del botón Eliminar en la tabla 
+.btn-eliminar {
+    cursor: pointer;
+}
+
+/Estilos del botón Eliminar en la tabla 
+.img-thumbnail {
+    cursor: pointer;
+}
+
+/Estilos del navbar 
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: #fff;
+}
+
+/Estilos del pie de página 
+.footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/Estilos para ajustar el tamaño de las imágenes en la tabla 
+.table img {
+    max-width: 80px;
+    max-height: 60px;
+}
+
+/Estilos del contenedor de la tabla 
+.table-container {
+    overflow-x: auto;
+}
+
+/Estilos de los botones en la tabla 
+.table .btn {
+    margin: 2px;
+}
+ */
